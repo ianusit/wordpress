@@ -1,4 +1,4 @@
-FROM ianusit/nginx-php-mysql:1.1
+FROM ianusit/nginx-php-mysql:1.2
 
 MAINTAINER Ianus IT GmbH <info@ianus-it.de>
 
